@@ -4,8 +4,6 @@ public class PrintNum1_100 {
 
 	public static void main(String[] args) {
 		
-		
-		
 		for(int i = 1; i<100; i++) {
 			//System.out.println(i);
 			
@@ -25,4 +23,4 @@ public class PrintNum1_100 {
       // https://github.com/Shining143/gitbashPractice.git
 	}// D:\MyGuruBatch261\WorkSpace\ehtesham.org
 
-} 
+} // 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
